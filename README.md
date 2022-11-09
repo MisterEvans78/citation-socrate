@@ -13,3 +13,4 @@
 - L'homme est le seul des animaux à croire à des dieux.
 - Nos jeunes aiment le luxe, ont de mauvaises manières, se moquent de l'autorité et n'ont aucun respect pour l'âge. A notre époque, les enfants sont des tyrans.
 - Quand tu n'as pas d'ailes tu ne peux pas voler.
+- L'amour engendre la haine, qui elle meme engendre la peine
